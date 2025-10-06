@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "FA_2lab": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}

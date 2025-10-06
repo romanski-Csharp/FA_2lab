@@ -7,12 +7,12 @@
             Console.OutputEncoding = System.Text.Encoding.UTF8;
 
             double[,] A = {
-                { 1, -1,  4 },
+                { 11, 5, -5 },
                 { 3, -7, -2 },
-                { 11, 5, -5 }
+                { 1, -1,  4 }
             };
 
-            double[] b = { -1, 4, 13.5 };
+            double[] b = { 13.5, 4, -1 };
             double epsilon = 0.001;
 
             Console.WriteLine("Вихідна система рівнянь:");
